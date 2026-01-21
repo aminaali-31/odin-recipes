@@ -1,0 +1,47 @@
+body {
+    background-color: rgb(238, 197, 214);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular',Verdana, sans-serif;
+}
+
+img {
+    height: auto;
+    width:200px;
+    margin: 10px;
+    display: block;
+    padding: 5px;
+}
+
+h1 {
+    margin: 10px;
+    color:rgb(110, 76, 76);
+    font-size: 35px;
+    padding: 5px;
+}
+
+a {
+    color:rgb(110, 76, 82);
+    margin: 5px 10px;
+    font-size: 20px;
+    padding: 5px;
+}
+
+h2 {
+    margin: 10px;
+    color:rgb(76, 56, 56);
+    font-size: 28px;
+    padding: 5px;
+}
+p {
+    margin: 10px;
+    color:rgb(54, 40, 40);
+    font-size: 18px;
+    padding: 5px;
+}
+
+ul li ,
+ol li {
+    margin: 10px;
+    color:rgb(54, 40, 40);
+    font-size: 18px;
+    padding: 5px;
+}

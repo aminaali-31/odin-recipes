@@ -1,0 +1,35 @@
+h1 {
+   
+    font-size: 35px;
+    margin:10px;
+    text-align: center;
+    color:rgb(90, 67, 67);
+}
+body {
+    background-color: rgb(247, 207, 227);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', Verdana, sans-serif;
+}
+p {
+    font-size: 20px;
+    text-align: center;
+    color:rgb(62, 45, 45);
+}
+ul {
+    margin: auto;
+
+}
+
+ul li {
+    color: rgb(113, 75, 75);
+    font-size: 20px;
+    
+}
+
+a {
+    color:rgb(151, 98, 130);
+    font-size: 23px;
+    font-weight: 500;
+    padding:5px;
+    margin:20px 0px;
+    text-decoration: none;
+}
